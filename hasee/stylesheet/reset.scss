@@ -1,0 +1,8 @@
+@charset"uft-8";
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img{margin:0;padding:0;}
+ul,ol,li{list-style:none;}
+img,fieldset{border:0;}
+img{display:block;}
+b,strong,em,i,h1,h2,h3,h4,h5,h6{font-weight:normal;font-style:normal;}
+.clear:after{content:"";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
+a{text-decoration:none;color:#000;}

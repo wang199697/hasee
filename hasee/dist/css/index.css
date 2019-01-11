@@ -1,0 +1,65 @@
+.clear:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+.top-nav {
+  height: 36px;
+  background: #f4f4f4;
+  width: 100%; }
+
+.top-nav nav {
+  width: 1240px;
+  margin: 0 auto;
+  height: 36px; }
+
+.top-nav nav ul {
+  float: right; }
+
+.top-nav nav ul li {
+  float: left;
+  font-size: 10px;
+  line-height: 36px;
+  color: #666;
+  margin-right: 10px; }
+
+.top-nav nav ul li a {
+  width: auto;
+  /*  margin-left: 20px;
+   float: right; */
+  font-size: 12px;
+  color: #666;
+  padding: 0 10px; }
+
+.top-nav nav p {
+  float: left;
+  color: #7f7f7f;
+  font-size: 12px;
+  line-height: 36px; }
+
+.top-nav nav p span {
+  float: left; }
+
+.top-nav nav p a {
+  width: 24px;
+  height: 36px;
+  color: #7f7f7f;
+  font-size: 12px;
+  float: left;
+  margin-left: 10px;
+  margin-right: 5px; }
+
+.top-nav nav p .a1 {
+  background: url(../images/aboutusLink_03.jpg) no-repeat;
+  background-position: center; }
+
+.top-nav nav p .a2 {
+  background: url(../images/aboutusLink_05.jpg) no-repeat;
+  background-position: center; }
+
+.top-nav nav p .a3 {
+  background: url(../images/aboutusLink_07.jpg) no-repeat;
+  background-position: center; }
